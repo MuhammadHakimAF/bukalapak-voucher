@@ -1,0 +1,19 @@
+{
+  "name": "bukalapak-extraper",
+  "version": "1.0.0",
+  "description": "Bukalapak Voucher Extrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "silentc0ders",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.0",
+    "random-ua": "0.0.6",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
