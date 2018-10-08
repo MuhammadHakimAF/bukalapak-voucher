@@ -7,6 +7,6 @@ Usage : node index.js
 * Node [8.6.0] [ nvm install 8.6.0; nvm use 8.6.0; ]
 
 ## How to install
-* git clone https://github.com/wfajriansyahh/bukalapak-voucher/
+* git clone https://github.com/mrname07/bukalapak-voucher/
 * cd bukalapak-voucher
 * npm install
